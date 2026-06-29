@@ -76,11 +76,6 @@ We benchmarked four models using Macro-F1 scores over the three expressed sentim
 ## 📁 Repository Structure
 
 ```text
-├── IEEE-conference-template-062824/    # IEEE LaTeX template and resources
-├── IEEEtran.cls                         # IEEE document class file
-├── main_ieee.tex                        # Shortened paper source code (IEEE format)
-├── main.tex                             # Original paper source code (ACL format)
-├── references.bib                       # References bibliography database
 └── README.md                            # Repository documentation (this file)
 ```
 
